@@ -1,4 +1,4 @@
-County,Station Number,name,Height_m,Easting,Northing,Latitude,Longitude,Open Year,Close Year
+County,StationNumber,name,Height,Easting,Northing,Latitude,Longitude,OpenYear,CloseYear
 Cork,5704,AHERLAMORE,122,150000,66600,51.843,-8.722,1985,
 Cork,1203,ALLIHIES G.S.,58,58700,45400,51.639,-10.038,1950,1969
 Cork,306,ARAGLEN G.S.,94,192700,106100,52.204,-8.104,1944,1958
